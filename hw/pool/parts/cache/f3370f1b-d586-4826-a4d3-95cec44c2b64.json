@@ -1,0 +1,35 @@
+{
+    "MPN": [
+        false,
+        "7447709004"
+    ],
+    "base": "a1c91a13-b9c9-4ca0-a06e-441865f70a78",
+    "datasheet": [
+        false,
+        "https://www.we-online.com/katalog/datasheet/7447709150.pdf"
+    ],
+    "description": [
+        true,
+        "WE-PD SMT Power Inductor"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Würth Elektronik"
+    ],
+    "model": "2ac2d753-063f-42bd-87e0-549d7109ca1d",
+    "parametric": {
+        "dcr": "0.007",
+        "idc": "9.3",
+        "table": "inductors",
+        "value": "4.7e-06"
+    },
+    "tags": [],
+    "type": "part",
+    "uuid": "f3370f1b-d586-4826-a4d3-95cec44c2b64",
+    "value": [
+        false,
+        "4.7 µH"
+    ]
+}

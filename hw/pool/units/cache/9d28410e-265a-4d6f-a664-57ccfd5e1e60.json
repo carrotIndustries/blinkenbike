@@ -1,0 +1,56 @@
+{
+    "manufacturer": "Texas Instruments",
+    "name": "SN74LVC2T45DCT",
+    "pins": {
+        "38c2c0b9-b600-4867-86be-6bb527f9b4e9": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B2",
+            "swap_group": 0
+        },
+        "a6941f53-d2d8-4991-aa85-11ea3d9a3e9d": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "DIR",
+            "swap_group": 0
+        },
+        "b772f406-3d67-4bd7-8db4-98bc74b7e122": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCA",
+            "swap_group": 0
+        },
+        "be5b4e50-17d1-40bf-ac18-0c3c9640f48c": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "ce1a8881-b631-4134-9c98-fbe553d05a19": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A2",
+            "swap_group": 0
+        },
+        "fb0cfea3-07d2-4f3b-808d-628bdcec5f08": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "A1",
+            "swap_group": 0
+        },
+        "fd5839ca-1121-46a6-a1a2-7ace2d96eaa1": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "B1",
+            "swap_group": 0
+        },
+        "ff72aa2a-e0f9-4d03-83b1-9281423203da": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VCCB",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "9d28410e-265a-4d6f-a664-57ccfd5e1e60"
+}

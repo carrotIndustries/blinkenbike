@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "b6d180ff-0814-4d02-a249-4921e584b3bc": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "260811ad-05fb-4e30-9e59-00cd2e992ca9"
+        }
+    },
+    "manufacturer": "",
+    "name": "STUSB4500QTR",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "usb-pd"
+    ],
+    "type": "entity",
+    "uuid": "979c44b6-8183-4e7d-999b-185a06ec2bfa"
+}

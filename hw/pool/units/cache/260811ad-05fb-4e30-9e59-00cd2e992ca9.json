@@ -1,0 +1,146 @@
+{
+    "manufacturer": "",
+    "name": "STUSB4500QTR",
+    "pins": {
+        "0e0110d4-d178-4747-bd18-7a5aad688a11": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "A_B_SIDE",
+            "swap_group": 0
+        },
+        "1451152a-c0f5-4ba1-940d-80db465ed2d1": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "VBUS_EN_SNK",
+            "swap_group": 0
+        },
+        "17dc7e83-ab9f-48ba-8a2e-780e10f88f1b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC2",
+            "swap_group": 0
+        },
+        "18122694-94eb-441f-b59c-53ecdce3e9b3": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "GPIO",
+            "swap_group": 0
+        },
+        "1cf08a92-27a0-4e1c-a253-98e9686b6cab": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "SCL",
+            "swap_group": 0
+        },
+        "20218366-f9e0-4011-b6d6-ea0f4ac254b6": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VSYS",
+            "swap_group": 0
+        },
+        "2c7a9cef-9962-4992-b7c4-0490f19caabf": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VBUS_VS_DISCH",
+            "swap_group": 0
+        },
+        "348d50e7-a01f-4339-9964-e6a2554cadb5": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "3b1b8582-b40e-49f5-bce8-19f38672dc76": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC1DB",
+            "swap_group": 0
+        },
+        "40f7cfa3-d70d-47a7-bb59-6dc3dc97e4aa": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VREG_1V2",
+            "swap_group": 0
+        },
+        "572b8fbd-e8dc-4bfe-94c5-85405c8c3945": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        },
+        "645a9a57-d403-4b08-b9f7-02bac4b81ec2": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DISCH",
+            "swap_group": 0
+        },
+        "785b71f8-dd25-4ae7-825b-a9c5de4c121b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "RESET",
+            "swap_group": 0
+        },
+        "859cefa7-5ff1-46a4-8db9-47763b86eee6": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ADDR1",
+            "swap_group": 0
+        },
+        "8628e17d-ba90-47b8-a561-279b7d148c4b": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "POWER_OK2",
+            "swap_group": 0
+        },
+        "8881a085-4844-41a5-9054-5757716c5b2e": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "ALERT",
+            "swap_group": 0
+        },
+        "8d10fbf9-5a38-437a-9185-1fc7c6b0ad0b": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "SDA",
+            "swap_group": 0
+        },
+        "9c843e1a-0a1b-439f-a211-3a127a1aca6e": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VREG_2V7",
+            "swap_group": 0
+        },
+        "b1b95f74-3570-4479-8853-045b9bc9d002": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC2DB",
+            "swap_group": 0
+        },
+        "b25738cc-aba0-4167-8171-c2297e89065c": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC1",
+            "swap_group": 0
+        },
+        "c5a99273-1a42-4934-9ae7-edd70e04dcfd": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "ADDR0",
+            "swap_group": 0
+        },
+        "cf801d74-2dd3-4785-9891-5b144e4cef48": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "ATTACH",
+            "swap_group": 0
+        },
+        "e4c6a606-8421-45a7-9f04-153f285c03d0": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "POWER_OK3",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "260811ad-05fb-4e30-9e59-00cd2e992ca9"
+}

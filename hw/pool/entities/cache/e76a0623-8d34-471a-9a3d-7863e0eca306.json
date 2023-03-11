@@ -1,0 +1,16 @@
+{
+    "gates": {
+        "4599b656-d95a-4d47-a2a8-e92180ff8c16": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "e2ddcecc-0175-4323-b390-b6b65c0dffde"
+        }
+    },
+    "manufacturer": "Vishay",
+    "name": "SiC437",
+    "prefix": "U",
+    "tags": [],
+    "type": "entity",
+    "uuid": "e76a0623-8d34-471a-9a3d-7863e0eca306"
+}

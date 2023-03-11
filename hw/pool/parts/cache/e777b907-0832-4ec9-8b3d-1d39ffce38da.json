@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "Si4435DYPbF"
+    ],
+    "base": "1ee051ad-6d7e-4e75-9db7-32a41a865a56",
+    "datasheet": [
+        false,
+        "https://www.infineon.com/dgdl/si4435dypbf.pdf?fileId=5546d462533600a4015356847c882983"
+    ],
+    "description": [
+        false,
+        "HEXFET® Power MOSFET, -30V VDSS, 20mΩ RDSon"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Infineon Technologies"
+    ],
+    "model": "b99785a3-c0da-4658-969d-6287cec3be05",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "e777b907-0832-4ec9-8b3d-1d39ffce38da",
+    "value": [
+        true,
+        "base SOIC-8 P-channel MOSFET"
+    ]
+}

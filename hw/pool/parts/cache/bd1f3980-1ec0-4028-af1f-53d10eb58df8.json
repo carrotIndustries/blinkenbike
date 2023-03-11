@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "BD433M5FP-CE2"
+    ],
+    "base": "a344ef49-7b82-45e0-8bce-5aa639eaedbb",
+    "datasheet": [
+        true,
+        "https://fscdn.rohm.com/en/products/databook/datasheet/ic/power/linear_regulator/bd4xxm5xxx-c-e.pdf"
+    ],
+    "description": [
+        false,
+        "500-mA 3.3-V Output LDO"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        true,
+        "Rohm Semiconductor"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "bd1f3980-1ec0-4028-af1f-53d10eb58df8",
+    "value": [
+        true,
+        "BD4xxM5FP-CE2"
+    ]
+}

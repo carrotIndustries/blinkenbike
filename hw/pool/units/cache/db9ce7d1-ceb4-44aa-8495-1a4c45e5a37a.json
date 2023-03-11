@@ -1,0 +1,68 @@
+{
+    "manufacturer": "",
+    "name": "Generic 9 pin connector with mounting pad",
+    "pins": {
+        "02b8636a-6aef-4c55-bee9-1ffa209e87ce": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "6",
+            "swap_group": 0
+        },
+        "3187f32d-cf35-464a-aa68-9730eebaf2b1": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "1",
+            "swap_group": 0
+        },
+        "6087a965-c809-456f-977b-db94fdc9d527": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "9",
+            "swap_group": 0
+        },
+        "6d5d7012-1474-4403-8cc2-080e107796ca": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "Mount",
+            "swap_group": 0
+        },
+        "9edba34d-c7d1-479b-96c3-0c1f1cec5dcf": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "3",
+            "swap_group": 0
+        },
+        "a73991e8-aac8-4ee5-9fcd-63a3ba351fb6": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "8",
+            "swap_group": 0
+        },
+        "b4e5d951-1240-41cb-b62b-e441cdfef97f": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "2",
+            "swap_group": 0
+        },
+        "cadba1a3-1c63-4137-a971-6e2baed3f636": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "4",
+            "swap_group": 0
+        },
+        "d398172f-c518-4766-aa47-85d9978e8f57": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "5",
+            "swap_group": 0
+        },
+        "ec41bfae-7e85-4b98-9019-3bcb832399d9": {
+            "direction": "passive",
+            "names": [],
+            "primary_name": "7",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "db9ce7d1-ceb4-44aa-8495-1a4c45e5a37a"
+}

@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "b2c6764d-a75d-4faa-ac1d-9df769eead4c": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "73df4cbc-e53d-4859-beb1-9283b880ebd0"
+        }
+    },
+    "manufacturer": "WCH",
+    "name": "CH224K",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "usb-pd"
+    ],
+    "type": "entity",
+    "uuid": "85e1d1ea-053a-4b2d-8d3d-410c564acca4"
+}

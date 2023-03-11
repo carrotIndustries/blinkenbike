@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "1f09fca9-3ca1-4ae4-a5ab-691f4544a38e": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "9d28410e-265a-4d6f-a664-57ccfd5e1e60"
+        }
+    },
+    "manufacturer": "Texas Instruments",
+    "name": "SN74LVC2T45DCT",
+    "prefix": "U",
+    "tags": [
+        "ic",
+        "translator"
+    ],
+    "type": "entity",
+    "uuid": "32d6ce90-29b1-4d68-a9a8-ae77279c635a"
+}

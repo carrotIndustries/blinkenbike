@@ -1,0 +1,80 @@
+{
+    "MPN": [
+        false,
+        "D-SUB-9 Female Horizontal"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "D-SUB-9 Female Horizontal Pitch 2.77x2.84mm EdgePinOffset 7.70mm Housed MountingHolesOffset 9.12mm"
+    ],
+    "entity": "f8c5cd6c-3dd2-4667-950d-c62ba5982a08",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        ""
+    ],
+    "model": "ce1ae734-4938-4768-b566-92b01354ea7b",
+    "package": "2868faca-f77f-4741-bf15-7f5ff4e3a912",
+    "pad_map": {
+        "31c7771e-5468-42f8-9973-9d272da80a5e": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "9edba34d-c7d1-479b-96c3-0c1f1cec5dcf"
+        },
+        "328f748b-ee48-4a64-a7d5-bb8942adc003": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "d398172f-c518-4766-aa47-85d9978e8f57"
+        },
+        "56dbb379-9eaf-4f63-bbe4-3d3b2443dc89": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "02b8636a-6aef-4c55-bee9-1ffa209e87ce"
+        },
+        "6b18d6cb-9a88-4095-8f87-8e416a996ba2": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "6d5d7012-1474-4403-8cc2-080e107796ca"
+        },
+        "82acabe4-03a5-4598-8fd3-09ad4db72892": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "a73991e8-aac8-4ee5-9fcd-63a3ba351fb6"
+        },
+        "957d08ba-5170-4a17-bc1e-8ad9a11973f0": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "3187f32d-cf35-464a-aa68-9730eebaf2b1"
+        },
+        "bab270bf-be31-4f61-9c2b-6d1ab3f22f95": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "6087a965-c809-456f-977b-db94fdc9d527"
+        },
+        "c14c965a-c83f-41af-9dec-5768f49f3a77": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "6d5d7012-1474-4403-8cc2-080e107796ca"
+        },
+        "c63cf273-93a7-47dc-92b7-e79374413471": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "ec41bfae-7e85-4b98-9019-3bcb832399d9"
+        },
+        "ca65dfde-e230-47cf-a0b7-b63d401dc9c6": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "cadba1a3-1c63-4137-a971-6e2baed3f636"
+        },
+        "f4690abf-5baa-45f7-8240-c9afeb41be3d": {
+            "gate": "672e1f10-0401-43ad-b266-e7b705e49202",
+            "pin": "b4e5d951-1240-41cb-b62b-e441cdfef97f"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "connector",
+        "d-sub"
+    ],
+    "type": "part",
+    "uuid": "cfda2d0c-8406-4e59-b824-ba2be0c15443",
+    "value": [
+        false,
+        ""
+    ]
+}

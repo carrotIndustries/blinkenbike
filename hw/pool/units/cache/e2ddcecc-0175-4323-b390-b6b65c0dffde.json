@@ -1,0 +1,110 @@
+{
+    "manufacturer": "Vishay",
+    "name": "SiC437",
+    "pins": {
+        "1a75e213-bccc-4abd-bb0a-7ac6fd8f2482": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MODE1",
+            "swap_group": 0
+        },
+        "1aa41f66-b538-4b64-b005-d6db067965cb": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "GL3",
+            "swap_group": 0
+        },
+        "2b5f6087-b6c3-4d46-b9d3-613ee9ec2143": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "PGND",
+            "swap_group": 0
+        },
+        "4389506d-eed2-49a7-a0a6-b2b89b675e60": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "SW",
+            "swap_group": 0
+        },
+        "44b55a45-2dc1-4b5b-b859-7a8733fc1ba2": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "GL2",
+            "swap_group": 0
+        },
+        "4fd7ce58-4982-4d77-9557-aaf5d4688571": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "5f06c541-a2d8-40d1-a3d9-59fba140779c": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "PHASE",
+            "swap_group": 0
+        },
+        "65982275-e8a2-4201-86cd-228e2d387538": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "BOOT",
+            "swap_group": 0
+        },
+        "83578ac0-f685-4a8a-ab72-45f1fcb91503": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "AGND",
+            "swap_group": 0
+        },
+        "95651966-007f-485b-89d7-d281b3cf19ab": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "PGOOD",
+            "swap_group": 0
+        },
+        "96084a4b-baa4-4c6d-b03a-03528abd87d0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VIN",
+            "swap_group": 0
+        },
+        "aae4cca8-fcd0-4200-b34b-a2ee488ef282": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "MODE2",
+            "swap_group": 0
+        },
+        "add28f33-ccb6-46d9-a594-37b1dc3bcc9b": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "FB",
+            "swap_group": 0
+        },
+        "b361ec6d-e4f0-4b28-a54a-a5747f273913": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VOUT",
+            "swap_group": 0
+        },
+        "c67b6d4d-dfb7-4313-96b6-abe3cdc9d65a": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "EN",
+            "swap_group": 0
+        },
+        "f06d556c-c727-4d53-8a26-6204a8a7a81a": {
+            "direction": "power_output",
+            "names": [],
+            "primary_name": "VDRV",
+            "swap_group": 0
+        },
+        "fddf68c5-93cf-42bb-af71-47dc07b77925": {
+            "direction": "output",
+            "names": [],
+            "primary_name": "GL1",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "e2ddcecc-0175-4323-b390-b6b65c0dffde"
+}

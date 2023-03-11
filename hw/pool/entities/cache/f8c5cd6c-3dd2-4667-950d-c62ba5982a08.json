@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "672e1f10-0401-43ad-b266-e7b705e49202": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "db9ce7d1-ceb4-44aa-8495-1a4c45e5a37a"
+        }
+    },
+    "manufacturer": "",
+    "name": "Generic 9 pin connector with mounting pad",
+    "prefix": "J",
+    "tags": [
+        "connector",
+        "generic"
+    ],
+    "type": "entity",
+    "uuid": "f8c5cd6c-3dd2-4667-950d-c62ba5982a08"
+}

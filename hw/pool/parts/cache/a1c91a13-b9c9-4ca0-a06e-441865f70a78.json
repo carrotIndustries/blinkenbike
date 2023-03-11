@@ -1,0 +1,50 @@
+{
+    "MPN": [
+        false,
+        "WE-PD 1210 base part"
+    ],
+    "datasheet": [
+        false,
+        ""
+    ],
+    "description": [
+        false,
+        "WE-PD SMT Power Inductor"
+    ],
+    "entity": "1d534e1d-704a-4d44-a6e6-c6106a2827ab",
+    "flags": {
+        "base_part": "set",
+        "exclude_bom": "clear",
+        "exclude_pnp": "clear"
+    },
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Würth Elektronik"
+    ],
+    "model": "2ac2d753-063f-42bd-87e0-549d7109ca1d",
+    "package": "b591f245-0e81-468e-a38a-878785e5ddaf",
+    "pad_map": {
+        "2b6f91b0-6ad5-44c1-a56c-444453e7d074": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "dda0ec99-5d70-4fbe-a8db-897542e7554e"
+        },
+        "d2b82b5c-6d00-4110-9800-6412980928dc": {
+            "gate": "48af78e5-730e-44eb-977a-cf188e4fcb39",
+            "pin": "6a44037c-65e2-4876-9359-42890048841d"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "inductor",
+        "smd"
+    ],
+    "type": "part",
+    "uuid": "a1c91a13-b9c9-4ca0-a06e-441865f70a78",
+    "value": [
+        false,
+        ""
+    ],
+    "version": 1
+}

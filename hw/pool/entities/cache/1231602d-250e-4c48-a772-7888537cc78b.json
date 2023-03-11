@@ -1,0 +1,19 @@
+{
+    "gates": {
+        "7f278498-842d-4c6c-a687-b64844b4ecfd": {
+            "name": "Main",
+            "suffix": "",
+            "swap_group": 0,
+            "unit": "b8f427ab-0cf7-4e08-8d4d-df7781f1f760"
+        }
+    },
+    "manufacturer": "",
+    "name": "Dual Zener Diode (Common Anode)",
+    "prefix": "D",
+    "tags": [
+        "diode",
+        "dual"
+    ],
+    "type": "entity",
+    "uuid": "1231602d-250e-4c48-a772-7888537cc78b"
+}

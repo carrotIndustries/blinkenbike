@@ -1,0 +1,80 @@
+{
+    "MPN": [
+        false,
+        "CH224K"
+    ],
+    "datasheet": [
+        false,
+        "https://www.wch.cn/downloads/CH224DS1_PDF.html"
+    ],
+    "description": [
+        false,
+        "USB PD sink controller"
+    ],
+    "entity": "85e1d1ea-053a-4b2d-8d3d-410c564acca4",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "WCH"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "24257197-ef68-42a6-a6f9-6cf5a6766e2e",
+    "pad_map": {
+        "2000deda-3190-4a4c-828b-60505374a78e": {
+            "gate": "b2c6764d-a75d-4faa-ac1d-9df769eead4c",
+            "pin": "6274fc36-01a0-483c-b724-655417377733"
+        },
+        "2fcede3f-0555-42e5-bd4c-4feb79e36aca": {
+            "gate": "b2c6764d-a75d-4faa-ac1d-9df769eead4c",
+            "pin": "88832baf-629a-4c86-8251-f441baf50a27"
+        },
+        "4db1f644-f16d-41bd-929a-98ef5e8fc4fa": {
+            "gate": "b2c6764d-a75d-4faa-ac1d-9df769eead4c",
+            "pin": "3e50f57c-50d1-4d00-8855-eb2cfa21ae5f"
+        },
+        "6caa391e-efba-4e08-b85d-d34274d4fa80": {
+            "gate": "b2c6764d-a75d-4faa-ac1d-9df769eead4c",
+            "pin": "ecd1c064-3639-4b18-9f70-2c67f07fa6e2"
+        },
+        "6e208b71-258f-4fe9-9c62-3f0f77844fb5": {
+            "gate": "b2c6764d-a75d-4faa-ac1d-9df769eead4c",
+            "pin": "95eb2469-9715-438b-9b45-840383c79e72"
+        },
+        "6f603902-8b1b-409d-8a11-c1bd3fe6cf75": {
+            "gate": "b2c6764d-a75d-4faa-ac1d-9df769eead4c",
+            "pin": "8bd47c65-3ac5-4993-b652-f2bb241db6bb"
+        },
+        "72601a93-af70-4435-ba35-a59d3f07c218": {
+            "gate": "b2c6764d-a75d-4faa-ac1d-9df769eead4c",
+            "pin": "fbc942b9-1a5c-4765-a047-716cb6a93d15"
+        },
+        "a73dbf0f-0402-4062-a1a6-2ab51e347d2b": {
+            "gate": "b2c6764d-a75d-4faa-ac1d-9df769eead4c",
+            "pin": "4a50204f-5ef9-4459-8d3c-a5f5c92be7a0"
+        },
+        "b36268aa-02a0-46ac-ad55-40b334bb9fe2": {
+            "gate": "b2c6764d-a75d-4faa-ac1d-9df769eead4c",
+            "pin": "42c514b0-a50e-4a56-b725-9f8949746d9a"
+        },
+        "b5e4245b-1aaa-4383-89c9-fb2c6322411d": {
+            "gate": "b2c6764d-a75d-4faa-ac1d-9df769eead4c",
+            "pin": "7feb897d-26e4-47e8-af8e-4fbf0b72d6cd"
+        },
+        "fd6ce57d-2b66-46d6-ba33-f37031c89052": {
+            "gate": "b2c6764d-a75d-4faa-ac1d-9df769eead4c",
+            "pin": "5a884b4c-274a-4ec9-8253-d4db8b519066"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "usb-pd"
+    ],
+    "type": "part",
+    "uuid": "931ff0c3-fd1a-4cfa-ba78-ec85cf37a38a",
+    "value": [
+        false,
+        ""
+    ]
+}

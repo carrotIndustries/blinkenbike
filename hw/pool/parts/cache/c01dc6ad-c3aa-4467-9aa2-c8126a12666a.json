@@ -1,0 +1,68 @@
+{
+    "MPN": [
+        false,
+        "SN74LVC2T45DCT"
+    ],
+    "datasheet": [
+        false,
+        "https://www.ti.com/general/docs/suppproductinfo.tsp?distId=10&gotoUrl=https%3A%2F%2Fwww.ti.com%2Flit%2Fgpn%2Fsn74lvc2t45"
+    ],
+    "description": [
+        false,
+        "Dual-Bit Dual-Supply Bus Transceiver With Configurable Voltage Translation"
+    ],
+    "entity": "32d6ce90-29b1-4d68-a9a8-ae77279c635a",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Texas Instruments"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "d2f3ae27-59c9-4c97-acbc-00e1fd8d3c11",
+    "pad_map": {
+        "58ae6b75-4f70-48a0-ab15-ff1185078f91": {
+            "gate": "1f09fca9-3ca1-4ae4-a5ab-691f4544a38e",
+            "pin": "fb0cfea3-07d2-4f3b-808d-628bdcec5f08"
+        },
+        "800854d6-3bcb-435c-90ca-41868128947a": {
+            "gate": "1f09fca9-3ca1-4ae4-a5ab-691f4544a38e",
+            "pin": "a6941f53-d2d8-4991-aa85-11ea3d9a3e9d"
+        },
+        "99ce9202-d631-480c-aefc-24dc163b26ed": {
+            "gate": "1f09fca9-3ca1-4ae4-a5ab-691f4544a38e",
+            "pin": "be5b4e50-17d1-40bf-ac18-0c3c9640f48c"
+        },
+        "9ae03795-0616-4790-923b-f898cd2036d6": {
+            "gate": "1f09fca9-3ca1-4ae4-a5ab-691f4544a38e",
+            "pin": "b772f406-3d67-4bd7-8db4-98bc74b7e122"
+        },
+        "b89bd148-c0f8-4bea-b3fb-f60e99716c6c": {
+            "gate": "1f09fca9-3ca1-4ae4-a5ab-691f4544a38e",
+            "pin": "fd5839ca-1121-46a6-a1a2-7ace2d96eaa1"
+        },
+        "e12ccb71-a0a1-49d4-a34d-a6798f94d36d": {
+            "gate": "1f09fca9-3ca1-4ae4-a5ab-691f4544a38e",
+            "pin": "ce1a8881-b631-4134-9c98-fbe553d05a19"
+        },
+        "f21b4d26-5c13-4309-a60d-4d0030b16118": {
+            "gate": "1f09fca9-3ca1-4ae4-a5ab-691f4544a38e",
+            "pin": "38c2c0b9-b600-4867-86be-6bb527f9b4e9"
+        },
+        "fbcf7bd4-a177-4da2-9c7a-98730c00a233": {
+            "gate": "1f09fca9-3ca1-4ae4-a5ab-691f4544a38e",
+            "pin": "ff72aa2a-e0f9-4d03-83b1-9281423203da"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "translator"
+    ],
+    "type": "part",
+    "uuid": "c01dc6ad-c3aa-4467-9aa2-c8126a12666a",
+    "value": [
+        false,
+        ""
+    ]
+}

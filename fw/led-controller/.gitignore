@@ -1,0 +1,11 @@
+build
+.vscode
+.mxproject
+.gdb_history
+*.o
+*.d
+.cproject
+.settings
+.project
+.cache
+compile_commands.json

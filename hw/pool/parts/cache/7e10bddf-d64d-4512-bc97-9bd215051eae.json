@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "742792113"
+    ],
+    "base": "fbb78454-dbae-44ee-94de-12e7b4af0c6f",
+    "datasheet": [
+        false,
+        "https://www.we-online.com/katalog/datasheet/742792113.pdf"
+    ],
+    "description": [
+        false,
+        "Ferrite bead, 120 Ohm @ 100 MHz, 3 A"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Würth Elektronik"
+    ],
+    "model": "96c366ee-a963-41a0-9cc8-54c646979695",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "7e10bddf-d64d-4512-bc97-9bd215051eae",
+    "value": [
+        true,
+        "base 1206 ferrite bead"
+    ]
+}

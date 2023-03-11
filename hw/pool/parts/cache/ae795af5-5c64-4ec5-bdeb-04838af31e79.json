@@ -1,0 +1,132 @@
+{
+    "MPN": [
+        false,
+        "STUSB4500QTR"
+    ],
+    "datasheet": [
+        false,
+        "https://www.st.com/resource/en/datasheet/stusb4500.pdf"
+    ],
+    "description": [
+        false,
+        "Stand-alone USB PD controller (with sink Auto-run mode), QFN-24"
+    ],
+    "entity": "979c44b6-8183-4e7d-999b-185a06ec2bfa",
+    "inherit_model": false,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "ST"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "ddbf43f6-271c-4452-a793-ca51098f330d",
+    "pad_map": {
+        "01964dea-6b52-4466-b11a-802b3ae4be78": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "c5a99273-1a42-4934-9ae7-edd70e04dcfd"
+        },
+        "0b98bec3-bb33-47fe-9cec-a0e0d22d6a22": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "b1b95f74-3570-4479-8853-045b9bc9d002"
+        },
+        "18c916a9-5d42-40b8-9e94-56297fc4e06b": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "40f7cfa3-d70d-47a7-bb59-6dc3dc97e4aa"
+        },
+        "190de0d4-6c73-41a4-a8b3-15f59b964184": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "17dc7e83-ab9f-48ba-8a2e-780e10f88f1b"
+        },
+        "1990a061-74a9-472d-9a02-dead7a5e8ea3": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "18122694-94eb-441f-b59c-53ecdce3e9b3"
+        },
+        "1eed4301-2148-45fc-a8ff-750278504a1e": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "3b1b8582-b40e-49f5-bce8-19f38672dc76"
+        },
+        "28bc1726-4826-477a-923f-9da73dead2dd": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "b25738cc-aba0-4167-8171-c2297e89065c"
+        },
+        "3206eb64-b21e-48b7-adf6-79a22e0a4ee7": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "572b8fbd-e8dc-4bfe-94c5-85405c8c3945"
+        },
+        "354e35bf-272b-49dd-939b-80dd32e92c1f": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "645a9a57-d403-4b08-b9f7-02bac4b81ec2"
+        },
+        "381ec51b-d4d7-478a-bcfc-ce743db98d13": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "8628e17d-ba90-47b8-a561-279b7d148c4b"
+        },
+        "39415dce-8b17-424e-ac90-cf6aa8b21e02": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "20218366-f9e0-4011-b6d6-ea0f4ac254b6"
+        },
+        "61ab196a-4236-4cad-8330-7078f3fe262e": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "cf801d74-2dd3-4785-9891-5b144e4cef48"
+        },
+        "6491fd73-0bfd-42e5-a979-a091cc86786c": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "8d10fbf9-5a38-437a-9185-1fc7c6b0ad0b"
+        },
+        "6a344686-fd07-4ff5-9c40-6ea5f97e597a": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "1cf08a92-27a0-4e1c-a253-98e9686b6cab"
+        },
+        "79e0585e-a066-4fb4-984b-af0fa41fde23": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "0e0110d4-d178-4747-bd18-7a5aad688a11"
+        },
+        "814de402-6180-403d-8044-ca3ef25d07ac": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "348d50e7-a01f-4339-9964-e6a2554cadb5"
+        },
+        "84bcd759-7d7b-48f5-bace-ea3f91eb193b": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "8881a085-4844-41a5-9054-5757716c5b2e"
+        },
+        "9793efaf-3589-47ce-9025-e9061e06c0b8": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "572b8fbd-e8dc-4bfe-94c5-85405c8c3945"
+        },
+        "ae7ed535-2aaf-43de-9fd9-4f5cd416760b": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "2c7a9cef-9962-4992-b7c4-0490f19caabf"
+        },
+        "af8c5390-6ba0-45ba-8b4d-a19308bab392": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "9c843e1a-0a1b-439f-a211-3a127a1aca6e"
+        },
+        "c87fa35c-df0c-42fb-bbb0-5493aaf77f7c": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "785b71f8-dd25-4ae7-825b-a9c5de4c121b"
+        },
+        "d5cfc7a9-2c1e-46d5-bc4c-2d8db5261e2a": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "e4c6a606-8421-45a7-9f04-153f285c03d0"
+        },
+        "e16ddb42-2ac4-4248-82e3-d9aef4f31ec6": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "859cefa7-5ff1-46a4-8db9-47763b86eee6"
+        },
+        "eb4ace68-2317-4cac-809c-b8e95ca4f067": {
+            "gate": "b6d180ff-0814-4d02-a249-4921e584b3bc",
+            "pin": "1451152a-c0f5-4ba1-940d-80db465ed2d1"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "ic",
+        "usb-pd"
+    ],
+    "type": "part",
+    "uuid": "ae795af5-5c64-4ec5-bdeb-04838af31e79",
+    "value": [
+        false,
+        ""
+    ]
+}

@@ -1,0 +1,74 @@
+{
+    "manufacturer": "WCH",
+    "name": "CH224K",
+    "pins": {
+        "3e50f57c-50d1-4d00-8855-eb2cfa21ae5f": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DP",
+            "swap_group": 0
+        },
+        "42c514b0-a50e-4a56-b725-9f8949746d9a": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "DM",
+            "swap_group": 0
+        },
+        "4a50204f-5ef9-4459-8d3c-a5f5c92be7a0": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "VDD",
+            "swap_group": 0
+        },
+        "5a884b4c-274a-4ec9-8253-d4db8b519066": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "VBUS",
+            "swap_group": 0
+        },
+        "6274fc36-01a0-483c-b724-655417377733": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CFG3",
+            "swap_group": 0
+        },
+        "7feb897d-26e4-47e8-af8e-4fbf0b72d6cd": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC1",
+            "swap_group": 0
+        },
+        "88832baf-629a-4c86-8251-f441baf50a27": {
+            "direction": "open_collector",
+            "names": [],
+            "primary_name": "PG",
+            "swap_group": 0
+        },
+        "8bd47c65-3ac5-4993-b652-f2bb241db6bb": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CFG2",
+            "swap_group": 0
+        },
+        "95eb2469-9715-438b-9b45-840383c79e72": {
+            "direction": "bidirectional",
+            "names": [],
+            "primary_name": "CC2",
+            "swap_group": 0
+        },
+        "ecd1c064-3639-4b18-9f70-2c67f07fa6e2": {
+            "direction": "input",
+            "names": [],
+            "primary_name": "CFG1",
+            "swap_group": 0
+        },
+        "fbc942b9-1a5c-4765-a047-716cb6a93d15": {
+            "direction": "power_input",
+            "names": [],
+            "primary_name": "GND",
+            "swap_group": 0
+        }
+    },
+    "type": "unit",
+    "uuid": "73df4cbc-e53d-4859-beb1-9283b880ebd0"
+}

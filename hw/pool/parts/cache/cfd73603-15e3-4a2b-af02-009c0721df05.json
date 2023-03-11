@@ -1,0 +1,30 @@
+{
+    "MPN": [
+        false,
+        "PESD2USB5UX-T"
+    ],
+    "base": "23dbbf3d-fec5-428f-8714-3d898f0e75ee",
+    "datasheet": [
+        false,
+        "https://assets.nexperia.com/documents/data-sheet/PESD2USB5UX-T.pdf"
+    ],
+    "description": [
+        false,
+        "Automotive infotainment ESD protection diode, 5V standoff"
+    ],
+    "inherit_model": true,
+    "inherit_tags": true,
+    "manufacturer": [
+        false,
+        "Nexperia"
+    ],
+    "model": "1ebac498-5423-42dc-90a6-7ad333585f6a",
+    "parametric": {},
+    "tags": [],
+    "type": "part",
+    "uuid": "cfd73603-15e3-4a2b-af02-009c0721df05",
+    "value": [
+        true,
+        "base SOT23-3 Dual Zener Diode (Common Anode)"
+    ]
+}

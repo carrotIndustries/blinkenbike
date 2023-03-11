@@ -1,0 +1,117 @@
+{
+    "MPN": [
+        false,
+        "SiC437"
+    ],
+    "datasheet": [
+        false,
+        "https://www.vishay.com/docs/75921/sic437.pdf"
+    ],
+    "description": [
+        false,
+        "3 V to 28 V Input, 12 A DC/DC Converter"
+    ],
+    "entity": "e76a0623-8d34-471a-9a3d-7863e0eca306",
+    "inherit_model": true,
+    "inherit_tags": false,
+    "manufacturer": [
+        false,
+        "Vishay"
+    ],
+    "model": "00000000-0000-0000-0000-000000000000",
+    "package": "16d17475-aa7f-4df5-8fdf-923bfed4af10",
+    "pad_map": {
+        "006dbf41-1d47-4895-98c9-04c59f2adb48": {
+            "gate": "4599b656-d95a-4d47-a2a8-e92180ff8c16",
+            "pin": "1aa41f66-b538-4b64-b005-d6db067965cb"
+        },
+        "10daa910-fa85-43c0-89c0-ecdfeb4c0d55": {
+            "gate": "4599b656-d95a-4d47-a2a8-e92180ff8c16",
+            "pin": "add28f33-ccb6-46d9-a594-37b1dc3bcc9b"
+        },
+        "1d2d7cd6-baf0-48c3-9821-36f0372705e6": {
+            "gate": "4599b656-d95a-4d47-a2a8-e92180ff8c16",
+            "pin": "4389506d-eed2-49a7-a0a6-b2b89b675e60"
+        },
+        "393e23e1-f96f-49b7-b725-0b21d0d04c97": {
+            "gate": "4599b656-d95a-4d47-a2a8-e92180ff8c16",
+            "pin": "44b55a45-2dc1-4b5b-b859-7a8733fc1ba2"
+        },
+        "44c01d77-478e-4c75-9837-8a5e61fcbadf": {
+            "gate": "4599b656-d95a-4d47-a2a8-e92180ff8c16",
+            "pin": "fddf68c5-93cf-42bb-af71-47dc07b77925"
+        },
+        "59850efd-a5e5-42b2-8eb6-5e9d9f5380f1": {
+            "gate": "4599b656-d95a-4d47-a2a8-e92180ff8c16",
+            "pin": "65982275-e8a2-4201-86cd-228e2d387538"
+        },
+        "9345e697-5834-4fd0-a80a-d366cf51a627": {
+            "gate": "4599b656-d95a-4d47-a2a8-e92180ff8c16",
+            "pin": "f06d556c-c727-4d53-8a26-6204a8a7a81a"
+        },
+        "97259c45-77bc-4cba-8914-066620f70b6e": {
+            "gate": "4599b656-d95a-4d47-a2a8-e92180ff8c16",
+            "pin": "96084a4b-baa4-4c6d-b03a-03528abd87d0"
+        },
+        "98fdb046-527d-436b-a2b0-ee8544886283": {
+            "gate": "4599b656-d95a-4d47-a2a8-e92180ff8c16",
+            "pin": "4fd7ce58-4982-4d77-9557-aaf5d4688571"
+        },
+        "9a0a4c94-66f7-403d-9728-39af1f93c6e9": {
+            "gate": "4599b656-d95a-4d47-a2a8-e92180ff8c16",
+            "pin": "2b5f6087-b6c3-4d46-b9d3-613ee9ec2143"
+        },
+        "9e7e7ecc-45f9-4cd3-a971-819c0846abab": {
+            "gate": "4599b656-d95a-4d47-a2a8-e92180ff8c16",
+            "pin": "83578ac0-f685-4a8a-ab72-45f1fcb91503"
+        },
+        "af34d48d-23f5-4994-bc11-a0c7853e507b": {
+            "gate": "4599b656-d95a-4d47-a2a8-e92180ff8c16",
+            "pin": "c67b6d4d-dfb7-4313-96b6-abe3cdc9d65a"
+        },
+        "b7d6cd1e-0585-43e0-a791-d62373ccd45b": {
+            "gate": "4599b656-d95a-4d47-a2a8-e92180ff8c16",
+            "pin": "96084a4b-baa4-4c6d-b03a-03528abd87d0"
+        },
+        "d95bd82e-88b2-4740-95e9-d0f334832b80": {
+            "gate": "4599b656-d95a-4d47-a2a8-e92180ff8c16",
+            "pin": "5f06c541-a2d8-40d1-a3d9-59fba140779c"
+        },
+        "e059c7cd-6755-4817-85e7-73e1b0b17469": {
+            "gate": "4599b656-d95a-4d47-a2a8-e92180ff8c16",
+            "pin": "aae4cca8-fcd0-4200-b34b-a2ee488ef282"
+        },
+        "e3aed466-45da-4d07-9860-6a924c9ca04a": {
+            "gate": "4599b656-d95a-4d47-a2a8-e92180ff8c16",
+            "pin": "2b5f6087-b6c3-4d46-b9d3-613ee9ec2143"
+        },
+        "e7db146f-9f17-4126-91ec-d8b1c9522775": {
+            "gate": "4599b656-d95a-4d47-a2a8-e92180ff8c16",
+            "pin": "83578ac0-f685-4a8a-ab72-45f1fcb91503"
+        },
+        "ebdcb4c7-fac7-4c46-9598-0b823d5d3287": {
+            "gate": "4599b656-d95a-4d47-a2a8-e92180ff8c16",
+            "pin": "1a75e213-bccc-4abd-bb0a-7ac6fd8f2482"
+        },
+        "f89dc246-2c8e-43f4-8e7c-cf86e3d565b6": {
+            "gate": "4599b656-d95a-4d47-a2a8-e92180ff8c16",
+            "pin": "95651966-007f-485b-89d7-d281b3cf19ab"
+        },
+        "fabd48d8-6c2b-4eff-ab2c-ed3c5bb7c8e0": {
+            "gate": "4599b656-d95a-4d47-a2a8-e92180ff8c16",
+            "pin": "b361ec6d-e4f0-4b28-a54a-a5747f273913"
+        }
+    },
+    "parametric": {},
+    "tags": [
+        "dcdc",
+        "ic",
+        "regulator"
+    ],
+    "type": "part",
+    "uuid": "51c64597-bca2-4c04-a50d-0a26f9e052b8",
+    "value": [
+        false,
+        ""
+    ]
+}
